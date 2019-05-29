@@ -34,4 +34,4 @@ _This was created with:_
 
 *This software is licensed under MIT license.*
 
-Copyright (c) 2019 **_Jessica Doss and Lake Bramlett_**
+Copyright (c) 2019 **_Jessica Doss and Lake "Bones" Bramlett_**
