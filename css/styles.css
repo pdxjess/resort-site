@@ -2,41 +2,41 @@ h1 {
   font-size: 60px;
   font-family: 'Poiret One', cursive;
   letter-spacing: 7px;
-  text-transform: lowercase;
   margin-bottom: 30px;
   font-family:'Poiret One', cursive;
 }
 
 body {
-  background-color: #ffffff;
+  background-color: LightSkyBlue;
   font-weight: bold;
   padding: 20px;
+  background-image: url('https://image.freepik.com/free-photo/texture-background_1404-161.jpg');
 }
 
 p {
   font-size: 20px;
   margin-top: 25px;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Poiret One', cursive;
   font-weight: 200;
-  text-align: center;
+  text-align: left;
   padding: 0px 30px;
 }
 
 .button-menu {
-  border: 2px solid black;
   margin: 10px 5px;
-  background-color: white;
 }
 
 .button {
   display: inline-block;
   width: 24%;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: lowercase;
+  font-size: 20px;
   font-family: 'Poiret One', cursive;
+  color: black;
 }
 
 img {
   width: 100%;
-  border: 1px solid black;
+  border-radius: 90px;
 }
