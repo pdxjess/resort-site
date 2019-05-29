@@ -1,0 +1,42 @@
+h1 {
+  font-size: 60px;
+  font-family: 'Poiret One', cursive;
+  letter-spacing: 7px;
+  text-transform: lowercase;
+  margin-bottom: 30px;
+  font-family:'Poiret One', cursive;
+}
+
+body {
+  background-color: #ffffff;
+  font-weight: bold;
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  padding: 0px 30px;
+}
+
+.button-menu {
+  border: 2px solid black;
+  margin: 10px 5px;
+  background-color: white;
+}
+
+.button {
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Poiret One', cursive;
+}
+
+img {
+  width: 100%;
+  border: 1px solid black;
+}
